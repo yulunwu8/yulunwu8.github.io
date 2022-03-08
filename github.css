@@ -18,6 +18,19 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
+
+
+
+
+.img-container {
+  float: left;
+  width: 50%;
+  padding: 2px;
+}
+
+
+
+
 body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
@@ -404,3 +417,7 @@ pre code, pre tt {
   background-color: transparent;
   border: none;
 }
+
+
+
+
